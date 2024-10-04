@@ -147,7 +147,7 @@ params:
   about:
     enable: true
     title: "A propos de moi"
-    image: "/images/radji.jpeg"
+    image: "/images/samse.JPG"
     content: |-
       Je suis étudiant en deuxième année BTS SIO mention SISR(Solutions d'Infrastructures Système et Réseaux) au lycée Edme Bouchardon à Chaumont. 
      
@@ -170,13 +170,13 @@ params:
     # title: "Custom Name"
     items:
       - job: "Technicien IT"
-        company: "SecurInfor ( Jeux Olympiques et Paralympiques"
+        company: "SecurInfor (JO et Para)"
         companyUrl: ""
         date: "Juillet 2024- sept 2024"
         featuredLink:
-          enable: false
+          enable: true
           name: "View the project"
-          url: "https://www.securinfor.fr/"
+          url: "https://www.securinfor.fr" 
         content: "J'assurais le support technique de niveau 2 aux utilisateurs des jeux de PARIS2024,l'installation et la configuration de PC, imprimantes et serveurspour assurer une infrastructure robuste"
 
       - job: "Stage"
@@ -184,8 +184,8 @@ params:
         companyUrl: ""
         date: "mai 2024 - juin 2024"
         featuredLink:
-          enable: false
-          url: "https://llc-consulting.fr/"
+          enable: true
+          url: "https://llc-consulting.fr"
         info:
           enable: true
           content:
@@ -235,13 +235,13 @@ params:
         content: |-
     
         featuredLink:
-          enable: false
+          enable: true
           name: "My academic record"
           url: "https://g.co/kgs/CrEA2WN"
       - title: "Baccalauréat"
         school:
           name: "Lycée Taiba ICS de Mboro,Sénégal."
-          url: "https://example.org"
+          url: "https://g.co/kgs/YHVFn57"
         GPA: "mention Assez-Bien"
         featuredLink:
           enable: false
