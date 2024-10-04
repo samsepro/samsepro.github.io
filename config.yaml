@@ -170,7 +170,7 @@ params:
     # title: "Custom Name"
     items:
       - job: "Technicien IT"
-        company: "SecurInfor (JO et Para)"
+        company: "SecurInfor JO et Para"
         companyUrl: "https://www.securinfor.fr"
         date: "Juillet 2024- sept 2024"
         featuredLink:
