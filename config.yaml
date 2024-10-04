@@ -171,25 +171,27 @@ params:
     items:
       - job: "Technicien IT"
         company: "SecurInfor (JO et Para)"
-        companyUrl: ""
+        companyUrl: "https://www.securinfor.fr"
         date: "Juillet 2024- sept 2024"
         featuredLink:
           enable: true
-          name: "View the project"
+          name: "Lien du site"
           url: "https://www.securinfor.fr" 
         content: "J'assurais le support technique de niveau 2 aux utilisateurs des jeux de PARIS2024,l'installation et la configuration de PC, imprimantes et serveurspour assurer une infrastructure robuste"
 
       - job: "Stage"
         company: "LLC Consulting"
-        companyUrl: ""
+        companyUrl: "https://llc-consulting.fr"
         date: "mai 2024 - juin 2024"
         featuredLink:
           enable: true
+          name : "Lien du site"
           url: "https://llc-consulting.fr"
         info:
           enable: true
           content:
-        content: "J'ai fait un audit et renforcement de la sécurité via l'analyse de vulnérabiltés avec WPScan. Identification et correction de failles de sécurité d'un site Wordpress et aussi développement de scripts Python pour analytics Web"
+        content: "J'ai fait un audit et renforcement de la sécurité via l'analyse de vulnérabiltés avec WPScan.
+         Identification et correction de failles de sécurité d'un site Wordpress et aussi développement de scripts Python pour analytics Web"
          
 
       - job: "Conditionneur"
@@ -235,7 +237,7 @@ params:
         content: |-
     
         featuredLink:
-          enable: true
+          enable: false
           name: "My academic record"
           url: "https://g.co/kgs/CrEA2WN"
       - title: "Baccalauréat"
@@ -333,7 +335,7 @@ params:
       disableFeaturedImage: false
     socialNetworks:
       github: https://github.com
-      linkedin: https://linkedin.com
+      linkedin: https://www.linkedin.com/in/samsidine-tour%C3%A9-1b2a6a284
       twitter: https://twitter.com
       instagram: https://instagram.com
       facebook: https://facebook.com
