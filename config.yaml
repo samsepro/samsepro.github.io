@@ -258,7 +258,7 @@ params:
         image: /images/cisco.png
       - title: Mooc de l'ANSSI
         content: Certification Mooc de l'ANSSI
-      	url : https://secnumacademie.gouv.fr/
+        url : https://secnumacademie.gouv.fr/
       	image : /images/mooc.png
      
   # projects
