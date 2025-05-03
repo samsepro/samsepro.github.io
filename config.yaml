@@ -161,6 +161,16 @@ params:
         - "Infrastructures Réseaux"
         - "Windows server"
         - "Linux"
+        - "Gestion de projet"
+        - "Virtualisation"
+        - "CCNA1 & CCNA2" 
+        - "Cybersécurité"
+        - "Mise en place de serveur Windows AD"
+        - "Mise en place de Proxmox"
+        - "Déploiement de machines par le réseau"
+        - "Supervision réseau avec Zabbix"
+        - "Mise en place d'un pare-feu Stormshield"
+        - "Mise en place de fonctionnalités DNS, DHCP"
         
         
 
@@ -169,6 +179,25 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+    
+      - job: "Stage"
+        company: "Createch Informatique"
+        companyUrl: 
+        date: "Janvier 2025 - Fevrier 2025"
+        featuredLink:
+          enable: false
+          name : 
+          url: 
+        info:
+          enable: true
+          content:
+        content: "Mise en place d’un tunnel vpn Client-to-site avec Openvpn
+		Configuration et gestion des serveurs Windows et Linux.
+		Assistance à la mise en place d’une infrastructure réseau sécurisée et analyse des logs pour détecter des anomalies.
+		Mise en place de solutions de sauvegarde et de sécurité pour les données sensibles.
+		Mise en place Zabbix, GLPI et OCS Inventory dans l'ESXi avec alertes discord et un proxy avec squidguard sous pfsense
+		Mise en place IDS / IPS dans l’infrastructure de l’entreprise"
+         
       - job: "Technicien IT"
         company: "SecurInfor JO et Para"
         companyUrl: "https://www.securinfor.fr"
@@ -194,26 +223,7 @@ params:
          Identification et correction de failles de sécurité d'un site Wordpress et aussi développement de scripts Python pour analytics Web"
          
 
-      - job: "Conditionneur"
-        company: "SDPP Evreux"
-        companyUrl: ""
-        date: "Nov 2022 - Jan 2023"
-        info:
-          enable: false
-        featuredLink:
-          enable: false
-          url: "https://example.com"
-        content: "Je faisais le remplissage, la mise en étuis, l'asssemblage et la palettisation"
-       
-      - job: "Plongeur"
-        company: "KFC"
-        companyUrl: ""
-        date: "Sept 2022 - Nov 2022"
-        featuredLink:
-          enable: false
-          url: "https://example.com"
-        content: "Je travaillais au plonge, faire la maintenance et l'entretien du lieu."
-       
+     
 
   # Education
   education:
@@ -334,11 +344,11 @@ params:
       enable: false
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
+      github: 
       linkedin: https://www.linkedin.com/in/samsidine-tour%C3%A9-1b2a6a284
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      twitter:
+      instagram: 
+      facebook: 
 
   # List pages like blogs and posts
   listPages:
