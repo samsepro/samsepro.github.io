@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hugo Profile</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Mar 2025 19:53:33 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example</title>
+      <link>http://localhost:1313/tags/example/</link>
+      <pubDate>Tue, 11 Mar 2025 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/tags/example/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rich Content</title>
+      <link>http://localhost:1313/tags/rich-content/</link>
+      <pubDate>Tue, 11 Mar 2025 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/tags/rich-content/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sample</title>
+      <link>http://localhost:1313/tags/sample/</link>
+      <pubDate>Tue, 11 Mar 2025 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/tags/sample/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ADécouvrir Et Utiliser Le JavaScript</title>
+      <link>http://localhost:1313/tags/ad%C3%A9couvrir-et-utiliser-le-javascript/</link>
+      <pubDate>Wed, 15 Nov 2023 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/tags/ad%C3%A9couvrir-et-utiliser-le-javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mathjax</title>
+      <link>http://localhost:1313/tags/mathjax/</link>
+      <pubDate>Wed, 15 Nov 2023 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/tags/mathjax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mise en Place D&#39;une Solution Logicielle</title>
+      <link>http://localhost:1313/tags/mise-en-place-dune-solution-logicielle/</link>
+      <pubDate>Fri, 03 Nov 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:1313/tags/mise-en-place-dune-solution-logicielle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Création D&#39;une Formulaire Et Traitement Avec Du Php</title>
+      <link>http://localhost:1313/tags/cr%C3%A9ation-dune-formulaire-et-traitement-avec-du-php/</link>
+      <pubDate>Tue, 03 Oct 2023 22:53:58 +0530</pubDate>
+      <guid>http://localhost:1313/tags/cr%C3%A9ation-dune-formulaire-et-traitement-avec-du-php/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Création D&#39;un Site Avec Hugo Et Déploiement Avec Github</title>
+      <link>http://localhost:1313/tags/cr%C3%A9ation-dun-site-avec-hugo-et-d%C3%A9ploiement-avec-github/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/tags/cr%C3%A9ation-dun-site-avec-hugo-et-d%C3%A9ploiement-avec-github/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

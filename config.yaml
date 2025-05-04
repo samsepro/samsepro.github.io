@@ -26,11 +26,15 @@ markup:
 Menus:
   main:
     - identifier: AP
-      name: AP et Projets
-      title: AP et Projets
+      name: Projets
+      title: Projets
       url: /AP
       weight: 1
-    
+    - identifier: Veille
+      name: Veille
+      title: Veille
+      url: /veille
+      weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -178,50 +182,34 @@ params:
   # Experience
   experience:
     enable: true
-    # title: "Custom Name"
+    title: "Expériences Professionnelles"
     items:
     
-      - job: "Stage"
+      - job: "Administrateur Systèmes et Réseaux"
         company: "Createch Informatique"
-        companyUrl: 
         date: "Janvier 2025 - Fevrier 2025"
-        featuredLink:
-          enable: false
-          name : 
-          url: 
-        info:
-          enable: true
-          content:
-        content: "Mise en place d’un tunnel vpn Client-to-site avec Openvpn
-		Configuration et gestion des serveurs Windows et Linux.
-		Assistance à la mise en place d’une infrastructure réseau sécurisée et analyse des logs pour détecter des anomalies.
-		Mise en place de solutions de sauvegarde et de sécurité pour les données sensibles.
-		Mise en place Zabbix, GLPI et OCS Inventory dans l'ESXi avec alertes discord et un proxy avec squidguard sous pfsense
-		Mise en place IDS / IPS dans l’infrastructure de l’entreprise"
-         
+        content: |
+          - Mise en place d’un tunnel VPN Client-to-site avec OpenVPN 
+          - Configuration et gestion des serveurs Windows et Linux.
+          - Assistance à la mise en place d’une infrastructure réseau sécurisée et analyse des logs pour détecter des anomalies.
+          - Mise en place de solutions de sauvegarde et de sécurité pour les données sensibles.
+          - Mise en place Zabbix, GLPI et OCS Inventory dans l'ESXi avec alertes Discord et un proxy avec SquidGuard sous pfSense.
+          - Mise en place IDS / IPS dans l’infrastructure de l’entreprise.
       - job: "Technicien IT"
-        company: "SecurInfor JO et Para"
-        companyUrl: "https://www.securinfor.fr"
+        company: "SecurInfor Jeux Paris 2024"
         date: "Juillet 2024- sept 2024"
-        featuredLink:
-          enable: true
-          name: "Lien du site"
-          url: "https://www.securinfor.fr" 
-        content: "J'assurais le support technique de niveau 2 aux utilisateurs des jeux de PARIS2024,l'installation et la configuration de PC, imprimantes et serveurspour assurer une infrastructure robuste"
+        content: |
+          - Support  technique de niveau 2 aux utilisateurs des jeux de PARIS2024
+          - Déploiement de PC CIS Paris 2024
+          - Installation et la configuration de PC, imprimantes et serveurs pour assurer une infrastructure robuste
 
-      - job: "Stage"
+      - job: "Technicien IT"
         company: "LLC Consulting"
-        companyUrl: "https://llc-consulting.fr"
         date: "mai 2024 - juin 2024"
-        featuredLink:
-          enable: true
-          name : "Lien du site"
-          url: "https://llc-consulting.fr"
-        info:
-          enable: true
-          content:
-        content: "J'ai fait un audit et renforcement de la sécurité via l'analyse de vulnérabiltés avec WPScan.
-         Identification et correction de failles de sécurité d'un site Wordpress et aussi développement de scripts Python pour analytics Web"
+        content: |
+          - Audit et renforcement de la sécurité via l'analyse de vulnérabiltés avec WPScan.
+          - Identification et correction de failles de sécurité d'un site Wordpress
+          - Développement de scripts Python pour analytics Web
          
 
      
@@ -263,7 +251,7 @@ params:
   # Achievements
   achievements:
     enable: true
-    # title: "Custom Name"
+    title: "Certifications"
     items:
       - title: Cisco
         content: Certification Cisco.
@@ -273,62 +261,13 @@ params:
         content: Certification Mooc de l'ANSSI
         url : https://secnumacademie.gouv.fr/
         image : /images/mooc.png
-     
-  # projects
-  projects:
-    enable: true
-    # title: "Custom Name"
-    items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
-        featured:
-          name: Demo
-          link: https://hugo-profile.netlify.app
-        badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
-        links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
-        featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
-        badges:
-          - "Django"
-          - "Bootstrap"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
-
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
-        badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+  
 
   #Contact
   contact:
     enable: true
-    # title: "Custom Name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+    title: Contact
+    content: Ma boîte mail est toujours ouverte. Que vous ayez une question ou que vous souhaitiez simplement me dire bonjour, je ferai de mon mieux pour vous répondre !
     email: sam.toure@outlook.fr
     btnName: Mail me
     # formspree:

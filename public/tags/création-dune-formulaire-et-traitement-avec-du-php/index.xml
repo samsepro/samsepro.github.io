@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Création D&#39;une Formulaire Et Traitement Avec Du Php on Hugo Profile</title>
+    <link>http://localhost:1313/tags/cr%C3%A9ation-dune-formulaire-et-traitement-avec-du-php/</link>
+    <description>Recent content in Création D&#39;une Formulaire Et Traitement Avec Du Php on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Oct 2023 22:53:58 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cr%C3%A9ation-dune-formulaire-et-traitement-avec-du-php/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AP SIO1 : La création d&#39;un formulaire et traitement avec du Php</title>
+      <link>http://localhost:1313/ap/php/</link>
+      <pubDate>Tue, 03 Oct 2023 22:53:58 +0530</pubDate>
+      <guid>http://localhost:1313/ap/php/</guid>
+      <description>&lt;h2 id=&#34;i-objectifs-de-lactivité&#34;&gt;I. Objectifs de l&amp;rsquo;activité&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Réaliser un formulaire en HTML et CSS en respectant une charte graphique.&lt;/li&gt;&#xA;&lt;li&gt;Respecter les normes et standards du W3C en utilisant les outils de validation du code puis en corrigeant les erreurs.&lt;/li&gt;&#xA;&lt;li&gt;Découverte du langage PHP et de son exécution.&lt;/li&gt;&#xA;&lt;li&gt;Traiter un formulaire HTML en PHP.&lt;/li&gt;&#xA;&lt;li&gt;Débogage d’erreurs en PHP.&lt;/li&gt;&#xA;&lt;li&gt;Structures conditionnelles en PHP.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ii-résultat&#34;&gt;II. Résultat&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-résultat-du-formulaire-html&#34;&gt;1. Résultat du formulaire HTML&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/resultat1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-résultat-du-traitement-avec-php&#34;&gt;2. Résultat du traitement avec PHP&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/resultat2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

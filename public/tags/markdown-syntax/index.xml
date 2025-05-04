@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown Syntax on Hugo Profile</title>
+    <link>http://localhost:1313/tags/markdown-syntax/</link>
+    <description>Recent content in Markdown Syntax on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jan 2025 23:29:21 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/markdown-syntax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tableau de synthèse BTS SIO SISR</title>
+      <link>http://localhost:1313/ap/tsynth%C3%A8se/</link>
+      <pubDate>Fri, 10 Jan 2025 23:29:21 +0530</pubDate>
+      <guid>http://localhost:1313/ap/tsynth%C3%A8se/</guid>
+      <description>&lt;p&gt;Pendant les deux années de BTS SIO, j&amp;rsquo;ai pu réaliser différents projets que ce soit en cours ou en milieu professionnel. Nous devions réaliser un tableau de synthèse afin de regrouper les différents projets réalisés et les compétences qui y sont associées.&#xA;Ce tableau est consultable au lien suivant :&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

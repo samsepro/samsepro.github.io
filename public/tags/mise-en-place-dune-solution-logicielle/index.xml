@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mise en Place D&#39;une Solution Logicielle on Hugo Profile</title>
+    <link>http://localhost:1313/tags/mise-en-place-dune-solution-logicielle/</link>
+    <description>Recent content in Mise en Place D&#39;une Solution Logicielle on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Nov 2023 23:29:21 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mise-en-place-dune-solution-logicielle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mise en place d&#39;une solution logicielle</title>
+      <link>http://localhost:1313/ap/csharp/</link>
+      <pubDate>Fri, 03 Nov 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:1313/ap/csharp/</guid>
+      <description>&lt;h1 id=&#34;i---présentation-du-contexte&#34;&gt;I - Présentation du contexte&lt;/h1&gt;&#xA;&lt;p&gt;La généralisation des nouvelles technologies dans notre quotidien et dans le monde professionnel nécessite que chaque individu soit identifié de manière unique et sûre. En effet, cela est indispensable si l’on veut avoir une bonne traçabilité des actions de chaque utilisateur et ainsi de pouvoir garantir une bonne confidentialité.&lt;/p&gt;&#xA;&lt;p&gt;L’identification permet donc de connaître l’identité d’une personne alors que l’authentification permet de vérifier cette identité.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

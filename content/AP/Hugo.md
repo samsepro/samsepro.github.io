@@ -11,7 +11,6 @@ image: /images/hugo.svg
 description: ""
 toc: 
 ---
-![](/images/github.png)
 # I. Présentation du projet
 
 Lors de l’épreuve E4 du BTS, vous devez présenter un portfolio qui contient les réalisations faites au cours de votre formation. Au cours du 1er semestre, vous avez vu comment le faire simplement avec Wix. Cette fois-ci vous allez devoir installer un environnement permettant de faire tourner le framework Hugo. Hugo permet de générer des sites statiques simplement. Il fournit également de nombreux thèmes.

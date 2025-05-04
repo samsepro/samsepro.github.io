@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sample on Hugo Profile</title>
+    <link>http://localhost:1313/tags/sample/</link>
+    <description>Recent content in Sample on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Mar 2025 19:53:33 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sample/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Déploiement de machines par le réseau avec FOG Project</title>
+      <link>http://localhost:1313/ap/fogproject/</link>
+      <pubDate>Wed, 14 Feb 2024 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/ap/fogproject/</guid>
+      <description>&lt;h2 id=&#34;i-contexte-de-travail&#34;&gt;I. Contexte de travail&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;entreprise CUB possède de nombreux postes clients à mettre à jour et à dépanner lorsque cela est nécessaire. Actuellement, le technicien installe les postes un par un lorsque cela est nécessaire. Cependant, cela demande énormément de temps et n&amp;rsquo;est pas une solutiion pérenne.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ii-mission-1--besoins&#34;&gt;II. Mission 1 : Besoins&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;entreprise va renouveler toutes ses machines clientes dans votre agence  et souhaite en installer de nouvelles sous Windows 10 Entreprise. Vous êtes chargés de redéployer une image standard de Windows 10 sur toutes les nouvelles machines. Il vous est demandé d&amp;rsquo;utiliser le logiciel FOG Project que vous installerez sur une machine virtuelle Lubuntu.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Supervision réseau avec Zabbix</title>
+      <link>http://localhost:1313/ap/zabbix/</link>
+      <pubDate>Tue, 23 Jan 2024 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/ap/zabbix/</guid>
+      <description>&lt;h2 id=&#34;i-contexte-de-travail&#34;&gt;I. Contexte de travail&lt;/h2&gt;&#xA;&lt;p&gt;L’entreprise CUB possède de nombreuses machines virtuelles (les serveurs DNS dans les différentes zones, le serveur Web, le pare-feu) ainsi que des équipements réseaux (switchs CISCO). il est important pour la DSI d’avoir un tableau de bord permettant de voir en temps réel l’état des machines et des équipements réseaux&lt;/p&gt;&#xA;&lt;h2 id=&#34;ii-les-besoins&#34;&gt;II. Les besoins&lt;/h2&gt;&#xA;&lt;p&gt;Il vous est demandé de mettre en place une solution de supervision du réseau (Switchs Cisco) et des machines virtuelles.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Infrastructure Haute Disponibilité</title>
+      <link>http://localhost:1313/ap/haproxy/</link>
+      <pubDate>Tue, 25 Feb 2025 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/ap/haproxy/</guid>
+      <description>&lt;h2 id=&#34;i---contexte&#34;&gt;I - Contexte&lt;/h2&gt;&#xA;&lt;p&gt;L’entreprise CUB, comme toute entreprise moderne, repose de plus en plus sur des infrastructures informatiques pour ses opérations quotidiennes. Les interruptions de service ou les pannes peuvent avoir des conséquences graves sur la productivité, la satisfaction des clients et la réputation de l’entreprise.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ii---mission-1&#34;&gt;II - Mission 1&lt;/h2&gt;&#xA;&lt;h2 id=&#34;les-besoins&#34;&gt;Les besoins&lt;/h2&gt;&#xA;&lt;p&gt;Votre agence doit pouvoir faire face à une panne du serveur Active Directory car c’est un élément crucial dans votre infrastructure. Vous mettrez donc en place une redondance de votre controleur de domaine Active Directory.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sauvegarde avec Veeam Backup ans Replication</title>
+      <link>http://localhost:1313/ap/veeambackup/</link>
+      <pubDate>Tue, 11 Mar 2025 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/ap/veeambackup/</guid>
+      <description>&lt;h2 id=&#34;i---contexte&#34;&gt;I - Contexte&lt;/h2&gt;&#xA;&lt;p&gt;L’entreprise CUB possède de nombreuses agences. Chacune dispose de serveurs et il est impératif de procéder à des sauvegardes régulière de ces serveurs.&lt;/p&gt;&#xA;&lt;p&gt;Afin de ne pas tout perdre en cas d’attaque par Cryptolocker/Ransomware il est impératif de mettre en place une stratégie de sauvegarde immuable.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ii---les-besoins&#34;&gt;II - Les besoins&lt;/h2&gt;&#xA;&lt;p&gt;L’entreprise CUB a donc besoin :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mettre en place un serveur de sauvegarde sous Windows server avec VEEAM Backup and Replication&lt;/li&gt;&#xA;&lt;li&gt;Installer le serveur de sauvegarde dans le bon VLAN de l’entreprise CUB et prévoir un disque d’au moins 80 GiO pour l’installation de Veeam.&lt;/li&gt;&#xA;&lt;li&gt;Sauvegarder le serveur Windows sur le NAS (172.17.50.211 ou 172.17.50.212 ou 172.17.50.213 ou 172.17.50.214 selon votre bâtiment) avec les identifiants admin/btssio.&lt;/li&gt;&#xA;&lt;li&gt;Sauvegarder 1 serveur Linux sur le NAS.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;iii---procédure&#34;&gt;III - Procédure&lt;/h2&gt;&#xA;&lt;p&gt;Vous pouvez trouver la procédure au lien suivant:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projet Stormshield</title>
+      <link>http://localhost:1313/ap/bloc3/</link>
+      <pubDate>Sun, 23 Feb 2025 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/ap/bloc3/</guid>
+      <description>&lt;h2 id=&#34;i-contexte-de-travail&#34;&gt;I. Contexte de travail&lt;/h2&gt;&#xA;&lt;p&gt;Née en décembre 2010, la société CUB est une entreprise spécialisée dans l’incubation de startups partageant les mêmes valeurs de solidarité et de développement durable. Au travers de sa plate-forme web, CUB permet à des professionnels d’accéder à des espaces de travail dédiés : salles de réunion, de formation ou de séminaire.&lt;/p&gt;&#xA;&lt;p&gt;Le concept novateur de CUB repose sur une démarche collaborative de type « BtoB », en effet CUB propose aux entreprises qui disposent d’espaces inoccupés de les louer à l’heure ou à la journée.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mise en place d&#39;une solution logicielle</title>
+      <link>http://localhost:1313/ap/csharp/</link>
+      <pubDate>Fri, 03 Nov 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:1313/ap/csharp/</guid>
+      <description>&lt;h1 id=&#34;i---présentation-du-contexte&#34;&gt;I - Présentation du contexte&lt;/h1&gt;&#xA;&lt;p&gt;La généralisation des nouvelles technologies dans notre quotidien et dans le monde professionnel nécessite que chaque individu soit identifié de manière unique et sûre. En effet, cela est indispensable si l’on veut avoir une bonne traçabilité des actions de chaque utilisateur et ainsi de pouvoir garantir une bonne confidentialité.&lt;/p&gt;&#xA;&lt;p&gt;L’identification permet donc de connaître l’identité d’une personne alors que l’authentification permet de vérifier cette identité.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AP SIO1 : La création d&#39;un formulaire et traitement avec du Php</title>
+      <link>http://localhost:1313/ap/php/</link>
+      <pubDate>Tue, 03 Oct 2023 22:53:58 +0530</pubDate>
+      <guid>http://localhost:1313/ap/php/</guid>
+      <description>&lt;h2 id=&#34;i-objectifs-de-lactivité&#34;&gt;I. Objectifs de l&amp;rsquo;activité&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Réaliser un formulaire en HTML et CSS en respectant une charte graphique.&lt;/li&gt;&#xA;&lt;li&gt;Respecter les normes et standards du W3C en utilisant les outils de validation du code puis en corrigeant les erreurs.&lt;/li&gt;&#xA;&lt;li&gt;Découverte du langage PHP et de son exécution.&lt;/li&gt;&#xA;&lt;li&gt;Traiter un formulaire HTML en PHP.&lt;/li&gt;&#xA;&lt;li&gt;Débogage d’erreurs en PHP.&lt;/li&gt;&#xA;&lt;li&gt;Structures conditionnelles en PHP.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ii-résultat&#34;&gt;II. Résultat&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-résultat-du-formulaire-html&#34;&gt;1. Résultat du formulaire HTML&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/resultat1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-résultat-du-traitement-avec-php&#34;&gt;2. Résultat du traitement avec PHP&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/resultat2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AP SIO 1 : Création d&#39;un site avec Hugo et déploiement avec Github</title>
+      <link>http://localhost:1313/ap/hugo/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/ap/hugo/</guid>
+      <description>&lt;h1 id=&#34;i-présentation-du-projet&#34;&gt;I. Présentation du projet&lt;/h1&gt;&#xA;&lt;p&gt;Lors de l’épreuve E4 du BTS, vous devez présenter un portfolio qui contient les réalisations faites au cours de votre formation. Au cours du 1er semestre, vous avez vu comment le faire simplement avec Wix. Cette fois-ci vous allez devoir installer un environnement permettant de faire tourner le framework Hugo. Hugo permet de générer des sites statiques simplement. Il fournit également de nombreux thèmes.&lt;/p&gt;&#xA;&lt;h1 id=&#34;ii-besoins&#34;&gt;II. Besoins&lt;/h1&gt;&#xA;&lt;p&gt;Il sera nécessaire d’installer et configurer une machine virtuelle Lubuntu.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

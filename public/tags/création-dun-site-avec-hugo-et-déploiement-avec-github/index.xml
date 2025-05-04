@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Création D&#39;un Site Avec Hugo Et Déploiement Avec Github on Hugo Profile</title>
+    <link>http://localhost:1313/tags/cr%C3%A9ation-dun-site-avec-hugo-et-d%C3%A9ploiement-avec-github/</link>
+    <description>Recent content in Création D&#39;un Site Avec Hugo Et Déploiement Avec Github on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Apr 2021 22:41:10 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cr%C3%A9ation-dun-site-avec-hugo-et-d%C3%A9ploiement-avec-github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AP SIO 1 : Création d&#39;un site avec Hugo et déploiement avec Github</title>
+      <link>http://localhost:1313/ap/hugo/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/ap/hugo/</guid>
+      <description>&lt;h1 id=&#34;i-présentation-du-projet&#34;&gt;I. Présentation du projet&lt;/h1&gt;&#xA;&lt;p&gt;Lors de l’épreuve E4 du BTS, vous devez présenter un portfolio qui contient les réalisations faites au cours de votre formation. Au cours du 1er semestre, vous avez vu comment le faire simplement avec Wix. Cette fois-ci vous allez devoir installer un environnement permettant de faire tourner le framework Hugo. Hugo permet de générer des sites statiques simplement. Il fournit également de nombreux thèmes.&lt;/p&gt;&#xA;&lt;h1 id=&#34;ii-besoins&#34;&gt;II. Besoins&lt;/h1&gt;&#xA;&lt;p&gt;Il sera nécessaire d’installer et configurer une machine virtuelle Lubuntu.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

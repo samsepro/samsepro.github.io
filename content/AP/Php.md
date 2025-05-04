@@ -13,8 +13,6 @@ description: ""
 toc: 
 ---
 
-# AP : La création d'un formulaire et traitement avec du Php
-
 ## I. Objectifs de l'activité
 
 - Réaliser un formulaire en HTML et CSS en respectant une charte graphique.

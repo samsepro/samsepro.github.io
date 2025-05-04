@@ -7,7 +7,7 @@ tags:
   - Rich content
   - Sample
   - example
-image: /images/AP/veeam.png
+image: /images/backup.jpeg
 description: ""
 toc: 
 Weight: 10

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veilles on Hugo Profile</title>
+    <link>http://localhost:1313/veille/</link>
+    <description>Recent content in Veilles on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Mar 2025 23:29:21 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/veille/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L&#39;IA dans la CYBERSÉCURITÉ</title>
+      <link>http://localhost:1313/veille/veille/</link>
+      <pubDate>Mon, 03 Mar 2025 23:29:21 +0530</pubDate>
+      <guid>http://localhost:1313/veille/veille/</guid>
+      <description>&lt;p&gt;Pourquoi ce sujet ?&lt;/p&gt;&#xA;&lt;p&gt;Dans un monde numérique en constante évolution, la cybersécurité est devenue un enjeu stratégique majeur pour les entreprises, les institutions et les citoyens. Face à l’ampleur croissante et à la complexité des menaces informatiques, j’ai choisi de consacrer ma veille technologique à un domaine à la fois innovant et crucial : l’intelligence artificielle appliquée à la cybersécurité.&lt;/p&gt;&#xA;&lt;p&gt;Ce sujet m’a particulièrement intéressé car il illustre parfaitement comment la technologie peut répondre aux défis humains et techniques actuels, notamment la pénurie de spécialistes en sécurité, l’automatisation des attaques ou encore la nécessité de réagir en temps réel. L’IA ouvre la voie à une détection proactive des menaces, à l’analyse comportementale des systèmes et à une réponse plus rapide aux incidents. Elle offre également des perspectives passionnantes, tout en posant de réels défis éthiques, réglementaires et techniques.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -7,7 +7,7 @@ tags:
   - Rich content
   - Sample
   - example
-image: /images/AP/Haproxy.png
+image: /images/Haproxy.png
 description: ""
 toc: 
 Weight: 9

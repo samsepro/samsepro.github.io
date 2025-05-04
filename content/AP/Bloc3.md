@@ -7,7 +7,7 @@ tags:
   - Rich content
   - Sample
   - example
-image: /images/AP/storm.png
+image: /images/storm.png
 description: ""
 toc: 
 Weight: 15
