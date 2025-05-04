@@ -5,6 +5,9 @@
     <loc>http://localhost:1313/veille/veille/</loc>
     <lastmod>2025-03-03T23:29:21+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/ap/tsynth%C3%A8se/</loc>
+    <lastmod>2025-01-10T23:29:21+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/ap/fogproject/</loc>
     <lastmod>2024-02-14T19:53:33+05:30</lastmod>
   </url><url>
@@ -40,6 +43,9 @@
   </url><url>
     <loc>http://localhost:1313/veille/</loc>
     <lastmod>2025-03-03T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/markdown-syntax/</loc>
+    <lastmod>2025-01-10T23:29:21+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ad%C3%A9couvrir-et-utiliser-le-javascript/</loc>
     <lastmod>2023-11-15T19:53:33+05:30</lastmod>

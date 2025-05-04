@@ -131,22 +131,7 @@ params:
     image: /images/samse.JPG 
     bottomImage:
       enable: true
-    # roundImage: true # Make hero image circular | default false
-    button:
-      enable: true
-      name: "Resume"
-      url: "#"
-      download: true
-      newPage: false
-    socialLinks:
-      fontAwesomeIcons:
-        - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-x-twitter
-          url: https://x.com/radji_sam?s=21
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+ 
 
   # About
   about:
