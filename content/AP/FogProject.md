@@ -1,5 +1,5 @@
 ---
-title: "AP 06 SIO1 : Déploiement de machines par le réseau avec FOG Project"
+title: "Déploiement de machines par le réseau avec FOG Project"
 date: 2024-02-14T19:53:33+05:30
 draft: false
 author: "Samsidine"
@@ -7,7 +7,7 @@ tags:
   - Rich content
   - Sample
   - example
-image: /images/AP/fog.png
+image: /images/fog.png
 description: ""
 toc: 
 Weight: 6

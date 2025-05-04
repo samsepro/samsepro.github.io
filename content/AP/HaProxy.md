@@ -1,5 +1,5 @@
 ---
-title: "AP03 SIO2:  Infrastructure Haute Disponibilité"
+title: "Infrastructure Haute Disponibilité"
 date: 2025-02-25T19:53:33+05:30
 draft: false
 author: "Samsidine"

@@ -1,5 +1,5 @@
 ---
-title: "Bloc 3 Projet Stormshield"
+title: "Projet Stormshield"
 date: 2025-02-23T19:53:33+05:30
 draft: false
 author: "Samsidine"

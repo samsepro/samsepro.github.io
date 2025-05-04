@@ -1,5 +1,5 @@
 ---
-title: "AP SIO1 : Mise en place d'une solution logicielle"
+title: "Mise en place d'une solution logicielle"
 date: 2023-11-03T23:29:21+05:30
 draft: false
 

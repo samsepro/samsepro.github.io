@@ -1,5 +1,5 @@
 ---
-title: "AP 02 SIO2: Supervision réseau avec Zabbix"
+title: "Supervision réseau avec Zabbix"
 date: 2024-01-23T19:53:33+05:30
 draft: false
 author: "Samsidine"
@@ -7,7 +7,7 @@ tags:
   - Rich content
   - Sample
   - example
-image: /images/AP/zabbix.png
+image: /images/zabbix.png
 description: ""
 toc: 
 Weight: 8
