@@ -38,7 +38,7 @@ La direction des systèmes d’information (DSI), située à Paris, participe é
 
 Le siège social est le cœur du système d’information interne de CUB, mais un service informatique de proximité (SIP) est présent sur chaque agence. Le SIP est responsable de l’assistance aux utilisateurs locaux et de la maintenance des ressources locales (infrastructure réseau et serveurs). Le SIP prend également en charge des projets qui concernent ponctuellement leur site.
 
-<center><img src="/images/AP/b3schema.png"></center> 
+<center><img src="/images/b3schema.png"></center> 
 
 ## II. Les besoins 
 

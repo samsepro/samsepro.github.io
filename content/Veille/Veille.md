@@ -16,4 +16,4 @@ Ce sujet m’a particulièrement intéressé car il illustre parfaitement commen
 
 En explorant ce thème, j’ai voulu comprendre non seulement les apports de l’IA, mais aussi ses limites et les précautions nécessaires à son intégration dans un système de défense efficace et responsable. Cette veille m’a permis de mieux appréhender les enjeux actuels et futurs d’un domaine en pleine mutation, à la croisée de mes intérêts pour la sécurité informatique et les technologies d’avenir.
 
-Voici le lien du dossier complet: [Veille Téchnologique](/Documents/Veille-Toure.pdf) 
+Voici le lien du dossier complet: [Veille Téchnologique](/images/Veille-Toure.pdf) 
